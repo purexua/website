@@ -1,49 +1,34 @@
 <template>
   <div id="container">
     <div id="main-content">
-      <p>Hi, 如果你决定向我求助，当然你也不希望被视为失败者，更不愿成为失败者中的一员。能立刻得到快速并有效答案的最好方法，就是像赢家那样提问 —— 聪明、自信、有解决问题的思路，只是偶尔在特定的问题上需要获得一点帮助。</p>
+      <p>Hi, 该网站正在搭建中，敬请期待！</p>
 
-      <h2>在提问之前</h2>
+      <h2>我从软件工程中学到了几个教训：</h2>
 
       <ul>
-        <li>尝试在你准备提问的论坛的旧文章中搜索答案。</li>
-        <li>尝试上网搜索以找到答案。</li>
-        <li>尝试阅读手册以找到答案。</li>
-        <li>尝试阅读常见问题文件（FAQ）以找到答案。</li>
-        <li>尝试自己检查或试验以找到答案。</li>
-        <li>向你身边的强者朋友打听以找到答案。</li>
-        <li>如果你是程序开发者，请尝试阅读源代码以找到答案。</li>
+        <li>如果不了解系统的工作原理，就无法在系统之上构建东西。</li>
+        <li>尖端方法是灾难的根源。</li>
+        <li>那些宣传得很美好的事物都是炒作，你只能得到承诺的一小部分效果。</li>
       </ul>
 
       <blockquote>
         <p>
-          <strong>当你提出问题的时候，请先表明你已经做了上述的努力；这将有助于树立你并不是一个不劳而获且浪费别人的时间的提问者。如果你能一并表达在做了上述努力的过程中所学到的东西会更好，因为我们更乐于回答那些表现出能从答案中学习的人的问题。</strong>
+          <strong>AI时代的座右铭应该是： 谁学得最快，谁就获胜！ 对于国家、企业或个人来说，都是如此。 我们要相信，知识改变命运，知识就是财富，就是实力！</strong>
         </p>
       </blockquote>
 
       <h2>联系我</h2>
 
       <ul>
-        <li><a href="https://github.com/purexua">Github</a></li>
-        <li><a href="https://twitter.com/xujh668">Twitter</a></li>
-        <li><a href="https://space.bilibili.com/1295217142">B站</a></li>
         <li>Email : xujh3919@gmail.com</li>
-        <li>QQ : 983627161</li>
         <li>WeChat : purexua</li>
       </ul>
 
-      <h2>Purexua 的朋友们</h2>
-
-      <ul>
-        <li><a href="https://github.com/boygong">booygong</a></li>
-        <li><a href="https://github.com/fuchyourname">jokeran</a></li>
-      </ul>
       <blockquote>
         <p><em>I love to make friends.</em> so if you want to say <strong>hi, I'll be happy to meet you more!</strong></p>
-        <p>注意此网站是作者学习 Linux 系统用的，所以不会有华丽的界面，完美的功能。如果需要可关注作者其他域名！(●ˇ∀ˇ●)</p>
       </blockquote>
       <div class="extra-space"></div>
-      
+
     </div>
 
 
@@ -112,8 +97,8 @@ export default {
   }
 
   .extra-space {
-  height: 30px;
-  /* 调整为适当的空白高度，以防止footer遮挡main-content */
-}
+    height: 30px;
+    /* 调整为适当的空白高度，以防止footer遮挡main-content */
+  }
 }
 </style>
